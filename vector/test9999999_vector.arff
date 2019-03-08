@@ -1,0 +1,708 @@
+@relation 'test9999999-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.SnowballStemmer-stopwords-handlerweka.core.stopwords.Rainbow-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute action numeric
+@attribute adb numeric
+@attribute ades numeric
+@attribute adult numeric
+@attribute agent numeric
+@attribute aglobalrisk numeric
+@attribute agogo numeric
+@attribute agogobar numeric
+@attribute alive numeric
+@attribute allkpop numeric
+@attribute amp numeric
+@attribute anderssen numeric
+@attribute andi numeric
+@attribute announc numeric
+@attribute announcementtheeastlight numeric
+@attribute antis numeric
+@attribute anymore numeric
+@attribute arab numeric
+@attribute arenaexh numeric
+@attribute arenaexhibition numeric
+@attribute artist numeric
+@attribute asbig numeric
+@attribute asia numeric
+@attribute aspirations numeric
+@attribute ass numeric
+@attribute atfan numeric
+@attribute attract numeric
+@attribute attractcrowd numeric
+@attribute awww numeric
+@attribute ayodhya numeric
+@attribute ayutthaya numeric
+@attribute back numeric
+@attribute baekhyun numeric
+@attribute bahrainaugust numeric
+@attribute bangkok numeric
+@attribute bank numeric
+@attribute banks numeric
+@attribute bargirl numeric
+@attribute base numeric
+@attribute bbw numeric
+@attribute beach numeric
+@attribute beautiful numeric
+@attribute beautina numeric
+@attribute beautinathailand numeric
+@attribute begins numeric
+@attribute blackpink numeric
+@attribute blinks numeric
+@attribute boar numeric
+@attribute bonga numeric
+@attribute bot numeric
+@attribute boys numeric
+@attribute boyz numeric
+@attribute boyzthe numeric
+@attribute brunette numeric
+@attribute bryandecha numeric
+@attribute bunnymyen numeric
+@attribute buy numeric
+@attribute cams numeric
+@attribute capital numeric
+@attribute case numeric
+@attribute cave numeric
+@attribute centers numeric
+@attribute centra numeric
+@attribute central numeric
+@attribute chance numeric
+@attribute change numeric
+@attribute chanthaboon numeric
+@attribute chanthaburi numeric
+@attribute chanyeol numeric
+@attribute chatp numeric
+@attribute cheesecake numeric
+@attribute cheesecakehave numeric
+@attribute child numeric
+@attribute citizenship numeric
+@attribute claiming numeric
+@attribute clowns numeric
+@attribute club numeric
+@attribute cnni numeric
+@attribute coach numeric
+@attribute coindesk numeric
+@attribute comeback numeric
+@attribute comment numeric
+@attribute commercial numeric
+@attribute confirm numeric
+@attribute construction numeric
+@attribute continuity numeric
+@attribute convict numeric
+@attribute cosmopolitan numeric
+@attribute country numeric
+@attribute cover numeric
+@attribute crowdfunding numeric
+@attribute crypto numeric
+@attribute cryptocurrenc numeric
+@attribute cryptoregulation numeric
+@attribute cryptoruling numeric
+@attribute cumshots numeric
+@attribute cute numeric
+@attribute dam numeric
+@attribute dapink numeric
+@attribute day numeric
+@attribute days numeric
+@attribute dealingsdragon numeric
+@attribute dearest numeric
+@attribute debutqobit numeric
+@attribute deep numeric
+@attribute determine numeric
+@attribute discourse numeric
+@attribute dogfa numeric
+@attribute dolls numeric
+@attribute double numeric
+@attribute dragoncoin numeric
+@attribute due numeric
+@attribute earn numeric
+@attribute eas numeric
+@attribute east numeric
+@attribute eastlightjoins numeric
+@attribute economy numeric
+@attribute eleganxia numeric
+@attribute english numeric
+@attribute eric numeric
+@attribute event numeric
+@attribute everusworld numeric
+@attribute exchange numeric
+@attribute exchanges numeric
+@attribute exo numeric
+@attribute exoglobal numeric
+@attribute exol numeric
+@attribute exols numeric
+@attribute exos numeric
+@attribute family numeric
+@attribute fan numeric
+@attribute farmers numeric
+@attribute faves numeric
+@attribute fb numeric
+@attribute felix numeric
+@attribute female numeric
+@attribute fever numeric
+@attribute fibauasia numeric
+@attribute financial numeric
+@attribute flooding numeric
+@attribute forgets numeric
+@attribute forunicef numeric
+@attribute found numeric
+@attribute foxxylalalalisa numeric
+@attribute free numeric
+@attribute fruit numeric
+@attribute full numeric
+@attribute gangbang numeric
+@attribute germany numeric
+@attribute gidle numeric
+@attribute global numeric
+@attribute godofwar numeric
+@attribute golden numeric
+@attribute google numeric
+@attribute gotgidlepentagongolden numeric
+@attribute gothanks numeric
+@attribute goverment numeric
+@attribute grand numeric
+@attribute guys numeric
+@attribute handsome numeric
+@attribute hd numeric
+@attribute held numeric
+@attribute helping numeric
+@attribute hes numeric
+@attribute ho numeric
+@attribute home numeric
+@attribute honeymoon numeric
+@attribute hot numeric
+@attribute hq numeric
+@attribute https numeric
+@attribute hungry numeric
+@attribute iblisterlaknat numeric
+@attribute ico numeric
+@attribute iheartradiommvas numeric
+@attribute ikon numeric
+@attribute im numeric
+@attribute impact numeric
+@attribute indonesian numeric
+@attribute infamous numeric
+@attribute infor numeric
+@attribute instagram numeric
+@attribute institutions numeric
+@attribute interaction numeric
+@attribute interconnect numeric
+@attribute invit numeric
+@attribute island numeric
+@attribute isnt numeric
+@attribute issucircular numeric
+@attribute itsbangchans numeric
+@attribute james numeric
+@attribute january numeric
+@attribute japan numeric
+@attribute japanhdv numeric
+@attribute jasberry numeric
+@attribute jetsetting numeric
+@attribute jim numeric
+@attribute jolearycutler numeric
+@attribute joomiekayjay numeric
+@attribute ju numeric
+@attribute judgefudge numeric
+@attribute junmyeon numeric
+@attribute junmyeonah numeric
+@attribute junmyeonahweareoneexo numeric
+@attribute jyjikon numeric
+@attribute jyp numeric
+@attribute kcon numeric
+@attribute kconthailand numeric
+@attribute ke numeric
+@attribute khaosodenglish numeric
+@attribute kids numeric
+@attribute kidskconthailand numeric
+@attribute kidssunmithe numeric
+@attribute kissmemyfan numeric
+@attribute kjmarchive numeric
+@attribute ko numeric
+@attribute korea numeric
+@attribute kpop numeric
+@attribute kris numeric
+@attribute lalarimando numeric
+@attribute lalisa numeric
+@attribute lao numeric
+@attribute laos numeric
+@attribute latin numeric
+@attribute leader numeric
+@attribute leadership numeric
+@attribute leg numeric
+@attribute libtards numeric
+@attribute light numeric
+@attribute line numeric
+@attribute lineup numeric
+@attribute lineupnewstray numeric
+@attribute linkin numeric
+@attribute lisa numeric
+@attribute lkmetro numeric
+@attribute local numeric
+@attribute london numeric
+@attribute lov numeric
+@attribute love numeric
+@attribute lplive numeric
+@attribute ma numeric
+@attribute maam numeric
+@attribute macau numeric
+@attribute malaysia numeric
+@attribute manoban numeric
+@attribute maps numeric
+@attribute markbjardine numeric
+@attribute marriage numeric
+@attribute mature numeric
+@attribute measure numeric
+@attribute meeting numeric
+@attribute memorablywe numeric
+@attribute men numeric
+@attribute mes numeric
+@attribute message numeric
+@attribute met numeric
+@attribute migrant numeric
+@attribute mikeshinoda numeric
+@attribute miss numeric
+@attribute mmvas numeric
+@attribute money numeric
+@attribute monk numeric
+@attribute mont numeric
+@attribute moscow numeric
+@attribute musical numeric
+@attribute muslim numeric
+@attribute musnt numeric
+@attribute nation numeric
+@attribute nature numeric
+@attribute naturerepublic numeric
+@attribute naturerepublicxexo numeric
+@attribute nct numeric
+@attribute nctsmtown numeric
+@attribute ne numeric
+@attribute nemz numeric
+@attribute network numeric
+@attribute nippon numeric
+@attribute nominate numeric
+@attribute nongmo numeric
+@attribute north numeric
+@attribute nuchnuc numeric
+@attribute official numeric
+@attribute ofgroup numeric
+@attribute online numeric
+@attribute onlycoup numeric
+@attribute open numeric
+@attribute organic numeric
+@attribute package numeric
+@attribute page numeric
+@attribute palitswind numeric
+@attribute parisberlin numeric
+@attribute park numeric
+@attribute paticipate numeric
+@attribute pattaya numeric
+@attribute pcy numeric
+@attribute peckpalit numeric
+@attribute peckpalitchoke numeric
+@attribute peckpalitpeckpalit numeric
+@attribute peckpalitsinger numeric
+@attribute penetration numeric
+@attribute pentagon numeric
+@attribute performanc numeric
+@attribute phetchaburi numeric
+@attribute phl numeric
+@attribute photos numeric
+@attribute photoshootoperate numeric
+@attribute phuket numeric
+@attribute picture numeric
+@attribute pizzagatelibya numeric
+@attribute place numeric
+@attribute places numeric
+@attribute plann numeric
+@attribute pls numeric
+@attribute point numeric
+@attribute popular numeric
+@attribute popularity numeric
+@attribute porn numeric
+@attribute porno numeric
+@attribute pornotube numeric
+@attribute pornthaisex numeric
+@attribute potential numeric
+@attribute prepare numeric
+@attribute prewedding numeric
+@attribute project numeric
+@attribute qobit numeric
+@attribute quarterfinalsphilippines numeric
+@attribute queen numeric
+@attribute rachaneephuris numeric
+@attribute raising numeric
+@attribute ramtemple numeric
+@attribute reair numeric
+@attribute real numeric
+@attribute redtube numeric
+@attribute release numeric
+@attribute rescu numeric
+@attribute rescue numeric
+@attribute residents numeric
+@attribute respect numeric
+@attribute reutersplus numeric
+@attribute rice numeric
+@attribute rough numeric
+@attribute rule numeric
+@attribute sad numeric
+@attribute seein numeric
+@attribute seeinglot numeric
+@attribute sehun numeric
+@attribute sell numeric
+@attribute september numeric
+@attribute service numeric
+@attribute sex numeric
+@attribute sexygirls numeric
+@attribute sexythaigirls numeric
+@attribute show numeric
+@attribute shwartzman numeric
+@attribute signing numeric
+@attribute singer numeric
+@attribute siwonchoi numeric
+@attribute sk numeric
+@attribute skin numeric
+@attribute slip numeric
+@attribute slogan numeric
+@attribute smallholder numeric
+@attribute smartgilas numeric
+@attribute soccer numeric
+@attribute softawafta numeric
+@attribute son numeric
+@attribute soompi numeric
+@attribute south numeric
+@attribute st numeric
+@attribute stadium numeric
+@attribute startups numeric
+@attribute stateless numeric
+@attribute steclfc numeric
+@attribute step numeric
+@attribute stock numeric
+@attribute stray numeric
+@attribute straykids numeric
+@attribute straykidsunion numeric
+@attribute stream numeric
+@attribute studies numeric
+@attribute subsidiaries numeric
+@attribute success numeric
+@attribute suho numeric
+@attribute suhos numeric
+@attribute summit numeric
+@attribute sunmi numeric
+@attribute suppo numeric
+@attribute support numeric
+@attribute surpris numeric
+@attribute sweetness numeric
+@attribute tastebuds numeric
+@attribute tbworld numeric
+@attribute tea numeric
+@attribute teachers numeric
+@attribute team numeric
+@attribute teens numeric
+@attribute ten numeric
+@attribute tesolatmq numeric
+@attribute thai numeric
+@attribute thaiclip numeric
+@attribute thaiclipxx numeric
+@attribute thaigirl numeric
+@attribute thaigirls numeric
+@attribute thailand numeric
+@attribute thailandand numeric
+@attribute thailandhttpstcoyhtlpurcg numeric
+@attribute thailandpm numeric
+@attribute thailands numeric
+@attribute thailandthe numeric
+@attribute thailandtokyo numeric
+@attribute thailandwant numeric
+@attribute thatwant numeric
+@attribute thursday numeric
+@attribute tiffany numeric
+@attribute tiffanyyoungfanmeetingtourbkk numeric
+@attribute tiffanyyoungovermyskin numeric
+@attribute time numeric
+@attribute tonights numeric
+@attribute topbeautyworldd numeric
+@attribute topbeautyworlddnominate numeric
+@attribute topbeautyworlddwould numeric
+@attribute totrip numeric
+@attribute tourbh numeric
+@attribute tours numeric
+@attribute toursbali numeric
+@attribute tow numeric
+@attribute toxfire numeric
+@attribute trans numeric
+@attribute treat numeric
+@attribute true numeric
+@attribute unicef numeric
+@attribute update numeric
+@attribute usa numeric
+@attribute vacation numeric
+@attribute variety numeric
+@attribute video numeric
+@attribute videos numeric
+@attribute vietnam numeric
+@attribute virgin numeric
+@attribute visit numeric
+@attribute visiting numeric
+@attribute vote numeric
+@attribute waiting numeric
+@attribute watch numeric
+@attribute weareoneexo numeric
+@attribute wedding numeric
+@attribute weeki numeric
+@attribute whos numeric
+@attribute wi numeric
+@attribute widespread numeric
+@attribute wife numeric
+@attribute wil numeric
+@attribute wild numeric
+@attribute wishbeerthai numeric
+@attribute withinflood numeric
+@attribute withspecial numeric
+@attribute wlive numeric
+@attribute women numeric
+@attribute wonderpuizz numeric
+@attribute work numeric
+@attribute world numeric
+@attribute worldwide numeric
+@attribute wu numeric
+@attribute wwf numeric
+@attribute xiuhoarebff numeric
+@attribute xvideos numeric
+@attribute years numeric
+@attribute yeoliving numeric
+@attribute ygofficialblink numeric
+@attribute younger numeric
+
+@data
+
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{264 1,286 1,402 1,422 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{13 1,205 1,229 1,365 1,375 1,384 1,404 1}
+{0 1,59 1,72 1,156 1,171 1,178 1,226 1,246 1,312 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{159 1,216 1,251 1,270 1,271 1,276 1,390 1,395 1,402 1,417 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{99 1,127 1,198 1,200 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{35 1,49 1,63 1,88 1,121 1,138 1,179 1,181 1,187 1,402 1,406 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{8 1,50 1,60 1,100 1,142 1,170 1,334 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{10 1,74 1,75 1,132 1,174 1,203 1,236 1,283 1,313 1,330 1,356 1,391 1}
+{26 1,91 1,93 1,94 1,123 1,172 1,340 1,406 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{65 1,85 1,218 1,224 1,242 1,272 1,359 1,402 1,447 1}
+{64 1,257 1,265 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{46 1,143 1,158 1,177 1,232 1,237 1,343 1,385 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{10 1,34 1,62 1,68 1,120 1,124 1,125 1,130 1,180 1,268 1,280 1,353 1,381 1,402 1,430 1}
+{22 1,23 1,87 1,106 1,118 1,136 1,183 1,255 1,378 1,392 1,396 1,406 1}
+{10 1,32 1,68 1,120 1,124 1,125 1,130 1,180 1,268 1,280 1,344 1,353 1,381 1,402 1,430 1}
+{32 1,34 1,63 1,120 1,124 1,125 1,130 1,180 1,268 1,280 1,353 1,402 1,430 1,459 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{12 1,127 1,155 1,254 1,308 1,339 1,382 1,397 1,409 1,426 1,445 1,463 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{42 1,43 1,133 1,287 1,288 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{26 1,79 1,91 1,93 1,94 1,123 1,172 1,340 1,406 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{39 1,48 1,53 1,57 1,98 1,117 1,147 1,160 1,222 1,275 1,306 1,316 1,394 1}
+{80 1,204 1,205 1,266 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{16 1,111 1,186 1,240 1,336 1,428 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{47 1,50 1,60 1,77 1,78 1,104 1,261 1,333 1,362 1,393 1,402 1,451 1,453 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{6 1,7 1,37 1,233 1,292 1,325 1,349 1,350 1,400 1,401 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{9 1,25 1,27 1,120 1,124 1,353 1,402 1}
+{6 1,7 1,37 1,233 1,292 1,325 1,349 1,350 1,400 1,401 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{99 1,127 1,198 1,200 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{33 1,137 1,214 1,302 1,324 1,361 1,368 1,405 1,411 1,415 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{21 1,35 1,36 1,91 1,101 1,110 1,284 1,319 1,379 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{9 1,25 1,27 1,120 1,124 1,353 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{19 1,61 1,176 1,205 1,209 1,346 1,374 1,376 1,402 1}
+{146 1,237 1,388 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{42 1,43 1,133 1,287 1,288 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{31 1,81 1,120 1,150 1,205 1,206 1,310 1,402 1,454 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{2 1,103 1,116 1,157 1,161 1,184 1,207 1,291 1,323 1,383 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{159 1,216 1,251 1,270 1,271 1,276 1,390 1,395 1,402 1,417 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{47 1,50 1,60 1,77 1,78 1,104 1,261 1,333 1,362 1,393 1,402 1,451 1,453 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{68 1,96 1,124 1,168 1,267 1,268 1,269 1,293 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{114 1,227 1}
+{40 1,292 1,402 1,449 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{13 1,205 1,229 1,365 1,375 1,384 1,404 1}
+{5 1,97 1,111 1,139 1,301 1,320 1,332 1,335 1,402 1,448 1}
+{144 1,318 1,398 1,399 1,402 1,434 1,437 1}
+{52 1,114 1,205 1,210 1,227 1,374 1,407 1,457 1}
+{42 1,43 1,133 1,287 1,288 1,402 1}
+{28 1,124 1,201 1,443 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{126 1,140 1,200 1}
+{173 1,190 1,212 1,217 1,258 1,305 1,402 1,432 1,440 1,458 1,461 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{50 1,60 1,73 1,370 1,397 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{45 1,70 1,232 1,342 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{41 1,45 1,216 1,232 1,243 1,276 1,390 1,402 1,417 1,456 1,467 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{47 1,50 1,60 1,77 1,78 1,104 1,261 1,333 1,362 1,393 1,402 1,451 1,453 1}
+{24 1,95 1,98 1,107 1,108 1,114 1,192 1,234 1,274 1,315 1,316 1,348 1,367 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{47 1,50 1,60 1,77 1,78 1,104 1,261 1,333 1,362 1,393 1,402 1,451 1,453 1}
+{159 1,216 1,251 1,270 1,271 1,276 1,390 1,395 1,402 1,417 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{130 1,249 1,253 1,273 1,357 1,402 1,412 1,413 1,414 1}
+{35 1,49 1,63 1,88 1,121 1,138 1,179 1,181 1,187 1,402 1,406 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{148 1,188 1,191 1,209 1,215 1,366 1,374 1,402 1,431 1,459 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{89 1,166 1,185 1,250 1,304 1,321 1,421 1,423 1,444 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{13 1,205 1,229 1,365 1,375 1,384 1,404 1}
+{54 1,69 1,151 1,235 1,262 1,289 1,329 1,377 1,408 1,450 1,455 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{12 1,127 1,155 1,254 1,308 1,339 1,382 1,397 1,409 1,426 1,445 1,463 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{294 1,295 1,354 1,390 1,402 1,418 1}
+{169 1,197 1,295 1,297 1,390 1,402 1,418 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{29 1,30 1,44 1,84 1,157 1,165 1,328 1,406 1,425 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{3 1,4 1,109 1,135 1,195 1,247 1,298 1,316 1,331 1,358 1,464 1,468 1}
+{276 1,279 1,294 1,295 1,296 1,390 1,402 1,419 1}
+{159 1,216 1,251 1,270 1,271 1,276 1,390 1,395 1,402 1,417 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{96 1,163 1,223 1,311 1}
+{119 1,134 1,182 1}
+{11 1,189 1,196 1,199 1,245 1,307 1,352 1,363 1,371 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{169 1,294 1,295 1,326 1,354 1,390 1,402 1,418 1}
+{0 1,59 1,72 1,156 1,171 1,178 1,226 1,246 1,312 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{70 1,402 1,429 1}
+{34 1,76 1,130 1,228 1,231 1,238 1,256 1,290 1,351 1,387 1,402 1,416 1,436 1,441 1}
+{14 1,18 1,20 1,150 1,176 1,205 1,206 1}
+{71 1,219 1,243 1,386 1,402 1,462 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{13 1,35 1,36 1,49 1,56 1,82 1,88 1,92 1,345 1,402 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{90 1,122 1,259 1,327 1,347 1,369 1,373 1,402 1,452 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{31 1,58 1,66 1,67 1,145 1,337 1,372 1,389 1,403 1,415 1,420 1,424 1,427 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{17 1,24 1,129 1,164 1,167 1,225 1,282 1,303 1,316 1,317 1,351 1,435 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{1 1,112 1,131 1,162 1,168 1,175 1,193 1,277 1,278 1,285 1,338 1,360 1,402 1,433 1,442 1}
+{38 1,86 1,194 1,208 1,260 1,397 1,402 1,465 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{102 1,129 1,141 1,175 1,220 1,221 1,322 1,341 1,355 1,402 1,438 1}
+{52 1,72 1,83 1,115 1,154 1,205 1,211 1,230 1,252 1,402 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{99 1,127 1,200 1,201 1,213 1,237 1,241 1,249 1,309 1,402 1,410 1,439 1}
+{55 1,127 1,249 1,263 1,300 1,309 1,381 1,402 1,410 1}
+{51 1,72 1,113 1,149 1,152 1,205 1,209 1,239 1,299 1,364 1,374 1,384 1,402 1}
+{15 1,105 1,128 1,153 1,244 1,248 1,281 1,314 1,380 1,446 1,460 1,466 1}
+{202 1,237 1}

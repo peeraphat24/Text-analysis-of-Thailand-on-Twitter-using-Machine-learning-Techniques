@@ -1,0 +1,8 @@
+{
+    "require": {
+        "kreait/firebase-php": "4.0",
+        "google/cloud-language": "^0.14.1",
+        "google/cloud": "^0.67.0",
+        "twbs/bootstrap": "4.0.0"
+    }
+}

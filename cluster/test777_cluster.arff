@@ -1,0 +1,55 @@
+@relation 'test777-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.SnowballStemmer-stopwords-handlerweka.core.stopwords.Rainbow-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.AddCluster-Wweka.clusterers.SimpleKMeans -init 0 -max-candidates 100 -periodic-pruning 10000 -min-density 2.0 -t1 -1.25 -t2 -1.0 -N 4 -A \"weka.core.EuclideanDistance -R first-last\" -I 500 -num-slots 1 -S 10'
+
+@attribute advertisingtime numeric
+@attribute airpo numeric
+@attribute andday numeric
+@attribute baejin numeric
+@attribute bangkok numeric
+@attribute bangkokbaekhyun numeric
+@attribute bbhosh numeric
+@attribute blackpink numeric
+@attribute bus numeric
+@attribute cn numeric
+@attribute cos numeric
+@attribute cr numeric
+@attribute daehwi numeric
+@attribute debut numeric
+@attribute exo numeric
+@attribute forever numeric
+@attribute jinhwinoona numeric
+@attribute journey numeric
+@attribute juicybkatehwangm numeric
+@attribute leaving numeric
+@attribute lisa numeric
+@attribute lisabar numeric
+@attribute ltone numeric
+@attribute nature numeric
+@attribute pa numeric
+@attribute platform numeric
+@attribute preview numeric
+@attribute republic numeric
+@attribute return numeric
+@attribute sment numeric
+@attribute storyaboutagirl numeric
+@attribute suppo numeric
+@attribute thailand numeric
+@attribute tour numeric
+@attribute venue numeric
+@attribute wannaone numeric
+@attribute weareoneexo numeric
+@attribute world numeric
+@attribute worldgt numeric
+@attribute years numeric
+@attribute cluster {cluster1,cluster2,cluster3,cluster4}
+
+@data
+
+{4 1,10 1,11 1,14 1,17 1,23 1,26 1,27 1,29 1,34 1,36 1}
+{2 1,4 1,11 1,15 1,18 1,22 1,30 1,33 1,35 1,37 1,38 1,40 cluster3}
+{0 1,4 1,7 1,8 1,9 1,13 1,20 1,21 1,24 1,25 1,31 1,32 1,39 1,40 cluster2}
+{0 1,4 1,7 1,8 1,9 1,13 1,20 1,21 1,24 1,25 1,31 1,32 1,39 1,40 cluster2}
+{0 1,4 1,7 1,8 1,9 1,13 1,20 1,21 1,24 1,25 1,31 1,32 1,39 1,40 cluster2}
+{0 1,4 1,7 1,8 1,9 1,13 1,20 1,21 1,24 1,25 1,31 1,32 1,39 1,40 cluster2}
+{5 1,6 1,14 1,23 1,27 1,28 1,40 cluster4}
+{1 1,3 1,4 1,12 1,16 1,19 1,40 cluster4}
+{4 1,10 1,11 1,14 1,17 1,23 1,26 1,27 1,29 1,34 1,36 1}
